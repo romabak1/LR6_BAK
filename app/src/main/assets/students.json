@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Олександр Петренко",
+      "age": 20,
+      "major": "Комп'ютерні науки",
+      "email": "alex.petrenko@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Марія Коваленко",
+      "age": 22,
+      "major": "Економіка",
+      "email": "maria.kovalenko@example.com"
+    }
+  ]
+}
